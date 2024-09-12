@@ -1,0 +1,11 @@
+{
+  "url": "https://gitlab.example.com",
+  "token": "gitlab-token",
+  "group_id": 1234,
+  "branches": [
+    "master",
+    "rc",
+    "production",
+    "*"
+  ]
+}
